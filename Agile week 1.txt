@@ -1,0 +1,307 @@
+Agile Manifesto
+
+The Manifesto for Agile Softwaere dev state:
+we are uncovering better ways of developing software by doing it and help other do it. Through this work,
+a) we have come to value individuals and interactions over processes and tools,
+b) sofware over comprehensive documentation,
+c) customer collaboration over contract negotiation,
+d) responding to change over following a plan.
+
+that is, while there is value in the items on the right, we value the items on the left more.
+
+4 values of the agile manifesto
+
+A) we have come to value individuals and interactions over processes and tools,
+         work together 
+         collaborate
+         help each other achieve the best outcomes possible
+         value individual perspective and creativity as important contributions to the success of the project
+
+b) sofware over comprehensive documentation
+    work on things that create value
+
+c) customer collaboration over contract negotiation,
+    customer satisfaction is considered to be the highest priority in building a high quality and valuable product
+    it referst to the official documents that require sign oof and formal aggreement with the customer
+
+    collaboration with customers early and often
+
+    react and adapt to feedback
+
+d) responding to change over following a plan.
+    Acknowledge that change is inevitable
+    adapt to change at any time during the project
+
+========================================================================================================================================================================
+12 principles of the agile manifesto
+
+Group into 4 related topics: 
+Value Delivery
+    How do Agile teams deliver highly valuable products to their customers?
+
+Business collaboration
+    How do Agile teams collablorat with t hei business partners and stakeholders to create business value to the organization>
+
+Team Dynamics and culture
+    How does a team create and maintain the rigth interpersonal and team dynamics to deliver value for the customers and the business? 
+
+Retrospectives and Continuous Learning
+    How does the project learn to continuously increate performance of an organization and business ? 
+
+---------------------------------------------------
+
+Value Delivery
+1) Our highest priority is to satisfy the custmer through early and continuous delivery of valuable software|solutions
+2) Deliver working|solutions sofware frequernytly from a couple of weeks to a couple of months, with a preference for the shorter timescale
+3) working software|solutions is the primary measure of progress
+4) simplicity - the art of maximising the amount of work not done- is essential
+5) Continuous attention to technical excellence and a good design enhances agility \
+
+Business collaboration 
+1) Welcome changing requirements, event late in development. Agile processes harness chagne for the customer's competitive advantage.
+2) Business people and developer must work together daily throughout the project.
+
+Team Dynamics and culture
+1) Build projects around motivated individuals. Give the mthe environment and support they needm and trust them to get the job done.
+2) the most efficient and effective method of conveying infomration and to within a development team is face-to-tace conversation
+3) agile processese promote sustainable devlopment. the sponsors, developers, and useres should be able to maintain a constant pace indefinitely
+4) The best architectures, requrements, and designs emerge from self-organizing teams
+
+    " MAKE SURE YOUR TEAM
+        * IS MOTIVATED TO DO THE RIGHT THING
+        * FEELS TRUSTED TO DO THE RIGHT THING
+        * hAS THE RESOURCES AND SPACE TO WORK CLOSELY TOGETHER ON THEIR GOALS "
+
+Retrospective and Continuous Learning
+1) At regular Intervals, the team reflects on how to become more effective, then tunes and adjust its behavior accordingly
+      "STRIVE TO CONTINUOUSLY LEARN AND ADAPT TO WHAT'S WORKING AND WHAT'S NOT"
+
+====================================================================================================================================================================================
+Adopting an Agile Mindset
+    - different scenarions in whi to adopt an Agile Mindset
+    - Introduction to VUCA
+
+Agile is about delivering value in a world with hight degrees of uncertainty, risk, and competition
+Agile works best in industries or projects that are susceptible to or that ecourage change and uncertainty.
+
+VUCA = an acronym that defines the conditios that affect organizations in a changing and complex world
+
+V = volatility -> refers to the rate of change and churn in a business or situation     
+U = uncertainty -> refers to the lack of predictability or high potential for surprise
+C = complexity -> refers to the high number of interrelated forces, inssuesm organizations and factors that would influence the project
+A = ambiguity -> refers to the possibility of misunderstanding the conditions and root causes of events or circumstances
+
+===========================================================================================================
+
+when starting on a new project, its helpful to examine the environment and conditions in which the project exists before deciding 
+the best approach to use
+
+if your project has high levels of VUCA parametersm itsa good sign you should consider an Agile approach
+
+an agile approach will lead to better outcomes by giving you and your team tools and systems to mitigate VUCA risks
+====================================================================================================================
+
+Introduction to Scrum
+- a management framework that teams use to self-=organcinze and work towards a common goal
+- when yuou use scrum for project management, you form a team that twill work together to 
+    quickly developer and test a deliverable. The work is completed in short cycles, and teams
+    meet daily to discuss curent tasks and clear up anthing that's blocking their progress.
+- a team of cross-functional memeberes come together to build deliverables and deliver value to their customers
+- The originators of Scrum saw their teams as heads-down group working very closely to get the ball down the field.
+- In scrum, work is completed in short cycles called sprints, and the teams meets daily to discuss current tasks and 
+    their progress.
+
+terms and definitions:
+product backlog - the central artifact in Scrum, where all possible ideas, deliverables, features
+    or tasks are captured for the team to work on.
+    - It's prioritized and proactively managed by the team continuosly throughout the entire project.
+
+Sprint - A time-boxed iteration in Scrum where work is done.
+    - can be between one and four weeks long, but most sprints are around two weeks.
+    - often called the "Iteration"
+
+Daily Scrum - A meeting of 15 or fewer minutes everyday of the sprint.
+
+Roles:
+
+Scrum master 
+    - Responsible for ensuring the team leives Agile values and princicples
+    - Responsible for ensuring the team follows the processes and practicecs that the team agreed to
+    - Responsible for sharing information to larger project team
+    - Responsible for helping the team focous on doing theigh best at work.
+
+Product Owner
+    - Responsible for maximizing the value of the product and the work of the team
+    - Responsible for the inventory of work and has final say on how to prioritize the work.
+
+Development team 
+    - Responisble for how the team will deliver the product
+
+Why scrum is popular
+* Clear roles and responsibilities, while continuosly emphasizing the power of the team as a whole
+* Regular and predidctable meeting and delivery schedules, formats, and outcomes
+* Supports and reinforces the Agile values and princicples, while adding structure and foundations that help new Agile team get started and more experienced teams get better.
+* Free and open for all to use. Huge amounts of online guidance and support, ass well as Scrum-specifiy training and certifications.
+
+The founding principles of Scrum
+In this reading, you will learn to define the characteristics of Scrum as we review what makes Scrum different from other frameworks.
+
+Although Scrum was first used to describe Agile content in 1986 in the Harvard Business Review, the term originates from the internationally loved sport, rugby. In rugby, a “scrum” involves players huddling closely together with their heads down while trying to gain possession of the ball. Then, the players work together in order to achieve their shared goal: to get the ball across the line and score!
+
+Image of a rugby team
+The original Harvard Business Review paper, written by Hirotaka Takeuchi and Ikujiro Nonaka and titled 
+The New New Product Development Game
+, introduces Scrum in the chapter “Moving the Scrum downfield.” Throughout the paper, the authors continue to point out which characteristics of a team help to move the Scrum downfield. Those are: 
+
+Built-in instability: In the Scrum world, teams are given the freedom to achieve important outcomes with 
+“challenging requirements.” Takeuchi and Nonaka explain that this gives teams “an element of tension” necessary to “carry out a project of strategic importance to the company.” 
+
+Self-organizing teams: Scrum Teams were intended to operate like their own start-up, 
+with a unique order that lacks true hierarchy. These teams are considered self-organizing when they exhibit autonomy, continuous growth, and collaboration.  
+
+Overlapping development phases: Individuals on a Scrum Team must “work toward synchronizing 
+their pace to meet deadlines.” At some point throughout the process, each individual’s pace starts to overlap with others, and eventually, a collective pace is formed within the team.
+
+Multi-learning: Scrum is a framework that relies heavily on trial and error. Scrum 
+Team members also aim to stay up-to-date with changing market conditions and can then 
+respond quickly to those conditions. 
+
+Subtle control: As we mentioned, Scrum Teams are self-organizing and operate like a
+ start-up, but that doesn’t mean there is no structure at all. By creating checkpoints 
+ throughout the project to analyze team interactions and progress, Scrum Teams 
+ maintain control without hindering creativity. 
+
+Organizational transfer of learning: On Scrum Teams, everyone is encouraged to learn 
+skills that may be new to them as they support other team members. 
+
+The authors’ main point was that “each element, by itself, does not bring about speed 
+and flexibility. But taken as a whole, the characteristics can produce a powerful new
+set of dynamics that will make a difference.” Though these concepts were first 
+introduced in 1986, they still remain remarkably true for Scrum Teams today. 
+===========================================================================================================================================================================================================================================================
+Intro to Kanban, XP, and Lean
+
+Kanban = from a japanese word, Kan (看) - Sign and Ban(板) - board
+
+benefits of Kanban
+* provides transparent visual feedback
+* ensure that the project teams only accepts a sustainable amount of in progress work.
+
+Work-In-Progress (WIP) Limi1t
+tasks are limited to what the team can actually handle during a certain amount of time
+
+flow
+a core principle of kanban that aims to maximize efficiency
+
+Extreme Programming (XP)
+    - aims to improve product quality and the ability to respond to changing customer needs
+    - Takes best practices for the development process to "extreme" levels
+
+Example: TDD - Test Driven Development
+
+XP activities
+ - Designing
+    - XP wants to ensure that all of the pieces of the product will fit together properly, so it stresses
+    simplicity.
+ - Coding
+    -  code is the language thats used to write software programs
+    - its the instructions that tell the computer what to do
+    - XP demnads clear and concise code so taht others can easily read and understand the program
+- Testing
+    - The goal is the to test and eliminate any floaws in a feature BEFORE building it and continueing on.
+- Listening 
+    - listening to the custerm and ensuring that the requirements are integrated in to the product.
+     
+
+XP Innovative Practices
+* pair Programming
+    - Two teams members work together at the same time on one tasks
+
+* Continuous Integration and Continuous Refactoring
+    - Merging product changes into a shared version of the product.
+    - This XP methodology aims to improve product quality and the ability to respond to changing customer needs.
+    To that end, continuouus integratiojn and continuous refactoring help team get quick feedback on the quality
+    of the code or product.
+
+* Avoid Big Design UpFront
+    - Design is just enough to get started and should ne continuously improved as the product evolves
+
+* Write Tests, not requirements
+    - Embed product requirements into the test plan
+    - instead of writing a product requirements document and then writing a test plan.
+    - your test plan can serve two purposes by A. telling the team what to build, and B,
+    comparing what they built to what was supposed to be built.
+    
+Lean 6 Sigma 
+
+5 principles of Lean
+1) Define value 
+    - Identify and focus on what the customer wants and include the customer
+    - A product's value is the sum of all the things the customer wants.
+2) Map Value Stream
+    - Map out the steps to production and challenge all wasted steps.
+    - It also means challenging any steps that can be considered wasteful or unnecessary
+3) Create flow
+    - ensure the product flows through the value stream efficiently, eliminating waste throughout the cycle.
+    - work to remove interruptions, delays and barrieres to the work stream.
+4) Establish pull 
+    - ensure the customer is "pulling" in the product through this stream by asking for features and incremental deliveries.
+    - customers might pull or ask for features and incremental deliveries. The idea is to make your process as smooth as possible that the customer can pull 
+    on the product at any time and you'll be able to present what you've been on or add a feature request. 
+5) pursue perfection
+    - push the team to continuously improve the first four process
+
+how does Agile relate to Lean?
+Agile emerged after Lean, the inventors of Agile were inspired to apply Lean manufacturing principles to software developement.
+like Agile, Lean is a set of principles and a value system.
+
+    ==========================================================================================================================================
+Blending project management approaches
+
+Agile Project Management in different ways:
+* Agile is a way of thinking about the project delivery process through the values and principles of the Manifesto.
+* Agile values and princiles can be achieved through certail project delivery frameworks and methods (Kanban, XP, Lean, Scrum)
+* these to ways of applying Agile demonstrate that the real power of agile comes from not only adopting certain processes or strategies
+  but also from adopting a certain kind of mindset - one that is necessary different from the traditional Waterfall model.
+ 
+Waterfall project management phases
+* initiation
+* planning
+* executing and completing tasks
+* closing out the project
+
+** all of the tasks within each of these phases like:
+ - identifying goals and scope,
+ - scheduling, 
+ - budgeting,
+ - risk management
+
+Reasons to blend Waterfall and Agile styles
+* your stakeholdersm customers, or sponsors are more comfortable with traditional approaches and workflows,
+but your project team is already established in Scrum
+
+* Regulatory requirements insists on certain traditional work processes
+
+* A vendor is already following a traditional approach and the integration between the teams requres some
+blending of methods
+
+Examples of how to blend methods:
+
+    - lets say your project is to develop a software product. during the retrosepctive for the last sprint,
+     a team member says, "i need to implement a certain feature, but i dont have experience building that particular feature"
+    someone else on the tam is an expert on that feature, so you decide to pair them up so they can work on building the feature
+    together during the next sprin.
+     
+        therefore, you've just blended XP and Scrum in the process.
+
+    - Most Scrum teams i know use Kanban board to track their progess through their sprint
+
+    *** warning ***
+
+    WATCH OUT FOR TOO MUCH CHANGES IN HOW YOU DO THINGS. teams works best when they can build up some consistency.
+
+Key points:
+
+* agile is a mindset
+* agile values and principles can be achieved through certain frameworks and delivery methods.
+* Agile and waterfall are both effective ways of approaching project management.
