@@ -1,0 +1,67 @@
+Scrum
+
+    - a framework for developing, delivering, and sustaining complex products
+    - means that a team can use Scrum to create valuable products for their users, even when the environment or industry they're in is hard to predict and there are many risks
+
+Iterative
+     - repeating cycles of delivery
+
+Incrementa
+    - work is divided into smaller chunks that build on each other
+    - The product is built over time through work done during each iteration
+
+Empiricism
+    - a scientific theory that depicts that the idea that true knowledge comes from actual, lived experience.
+
+3 foundational pillars of Empiricism (AKA the three pillars of Scrum)
+    - transparency
+    - inspection
+    - adaptation
+
+transparency
+    - we make the most significant aspects of our work visible to those responsible for the outcome.
+    - everyone must be transparent.
+    - transparency inside the scrum team is critcal to the team's productivity and the project's completion
+    - transparency means also building trust outside of the scrum team, like the stakeholders(customers, sponsors, and management )
+    - encourages more collaboration and fewer mistakes
+
+inspection
+    - refers to conducting timely checks towards te outcome of a sprint goel to detect undesirable variances.
+    - when teams work in an agile way, a stakeholder review of their work is a necessary opportunity for growth and progress.
+    - the more inspection that take place, the more improvement a team experiences in their work.
+    - There's real valuye to be gained from delibrerate inspection while you have a chance to change and improve.
+
+Adaptation
+    - Continuously searching for ways to adjust our project, product, or processes to minimize any further deviation or issues.
+
+In a nutshell
+    Transparency and inspection gives Scrum teams the information and opportunity they need to identify improvements or changes. 
+    althouogh adaptations include immediate fixes to problems, it may also be about implementing a change so future projects don't repeat past mistakes
+
+==================================================================================================================================================================================
+
+Five Values of Scrum
+
+1)  Commitment
+2)  Courage
+3)  Focus
+4)  Openness
+5)  Respect
+
+Commitment
+    - personally committing to achieving the goals of the Scrum team
+
+Courage
+    - Scrum Teams must have the courage to do the right thing and work on tough problems
+
+Focus
+    - this refers to everyone focusing on the necessary work within the Sprint and the overall goals of the Scrum Team.
+
+Openness
+    - For the scrumn to work, tea mtem and its stakeholders agree to be open about all the owkr and the various challenges that come with performing the work.
+    - essential to a productive Scrum Team. in order to gather data, team members must be willing to share their observations and experiences
+
+Respect
+    - respect the opinions, skills, and independence of their teammates. 
+    - when you respect the independence and contributions of others and feel respected yourself, you're morelikely to listen and hear any feedback
+    - crucial in making the product or business as successful as possible.
