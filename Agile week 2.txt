@@ -206,3 +206,48 @@ and facilitate effective communication among team members and stakeholders.
 Additionally, in many companies—including Google—the definition of product or solution scope is the responsibility of a separate role called a product manager. So, it is 
 important when joining any new company to discover how that company approaches the area of product definition, requirements development, and user research to understand what they 
 consider to be the domain of the project manager. 
+
+================================================================================================================================================================
+additional insights | https://www.infoq.com/articles/great-scrum-team/
+
+Product owner
+
+responsible for
+    * developing and maintaing a procut vision and market strategy
+    * product management
+    * ordering and management the product backlog
+    * Involving stakeholders and end users in product backlog refinement and backlog management
+
+A great product owner...
+
+Embraces, shares and socialize the product vision.
+    - represent the customers voice and creates a prodcut vision with the stakeholders. every decision is taken with the product vision in mind. this ensures sustainable product development
+    , provides clariityt for the developement team, and increase the chances of product success drastically.
+
+Exceeds the customer's expectations
+    - truly understands the custmers intentions and goals with the product and is able to outstrup its expectations. customer delight is the ultimate goal.
+
+is empowered.
+    - empowered to make decistions related to the product. sure createing support for their decisions might take some time, but swiftly making import decisions is a primary condition
+    for a sustainable pace of the developement team
+
+Orders the product backlog
+    - understands that the product backlog should be orderred. Priority, risk, value, learning opportunities, and dependencies are all taking into accound and balanced with each otehr.
+
+Prefers face to face communication
+    - understand that the best way to convey information is face to face communication. user storiers are explained in a personal conversation. if a tool is used for backlog management, its
+    function is to support the dialogue. in never replaces good old-fashioned conversation.
+
+knows modelling techniques
+    - has a backpack full of valuable modeling techniques.  then know when to appli a specifiy model. Examples are business model generation, lean startup, or impact mapping. 
+    based on thiese modles they know how to drive product success.
+
+shares experiences
+    - a greate product ownwer shares experiences with peeros. this might be within  the organization, and outside it: seminars and conferences are great way to share experiences and gather knowledge
+    in addition, wirting down lessons learned can be valuable for other product owners.
+
+owns user story mapping
+    - should master thje concept of user story mapping. its a techniquyes thats add a secound dimension to your backlog. this visualization shows the big picture of the product backlog.
+    jeff patton has write some excellent material about the concept of story mapping.
+
+has a focus on functionality
