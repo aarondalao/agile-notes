@@ -65,3 +65,144 @@ Respect
     - respect the opinions, skills, and independence of their teammates. 
     - when you respect the independence and contributions of others and feel respected yourself, you're morelikely to listen and hear any feedback
     - crucial in making the product or business as successful as possible.
+
+====================================================================================================================================================================
+
+Essential Scrum Roles and vision|misson
+
+one of the Agile Priciples states:
+    "give them the environement and support they need, and trust them to get the job done."
+
+Mission
+    A short statement that stays constant for your team throughout the process and gives them something to work toward.
+
+Product vision 
+    when you set a vision, you're making it clear what the team is responsible for and where your team's boundaries are.
+
+"A mission tells me why we're doing the work. A product vision helps me imagine what the work will be like when we're done."
+
+Scrum Team Roles
+    - scrum master -> build the thing fast
+    - product owner -> build the right thing
+    - development team -> build the thing right 
+
+Scrum teams are cross-functional. When a Scrum Team delivers something, it's the accomplishment of the entire team.
+Scrum team are self-organizin. (self-managing)
+
+=====================================================================================================================================
+Traits of an effective Scrum master
+    - The Scrum Master promotes and supports the scrum process by helping everyone understand and implement Scrum. this includes its practices,
+    rules, and values.
+
+scrum master's responsibilities
+    - coaching team members on agiles and scrum practices, rules, and values
+
+    - helping to find ways to manage the product backlog effectively
+        Helping the Scrum Team focus on creating high-value Increments that meet the Definition of Done (an agreed upon set of items that must be 
+        completed before a project or user story can be considered complete)
+
+    - Facilitating Scrum events
+        Ensuring that all Scrum events take place and are positive, productive, and kept within the timebox (a Scrum concept that refers to the 
+        estimated duration for an event)
+
+    - Helping the team remove blockers
+
+    - Preventing unhelpful interactions from outside of the team
+
+    - help team undestand and follow scrum theory. 
+        “The Scrum Master is accountable for establishing Scrum as defined in the Scrum Guide. They do this by helping everyone understand Scrum 
+        theory and practice, both within the Scrum Team and the Organization. The Scrum Master is accountable for the Scrum Team’s effectiveness. 
+        They do this by enabling the Scrum Team to improve its practices, within the Scrum framework.” 
+
+Essential Skills
+    - Organizational skills
+    - supporting leaders 
+    - Facilitate productivity and collaboration
+    - coach team members 
+    - great communicators
+
+Product backlog
+    - a single authoritative source for things that a team works on to achive the project goal
+        * Product features
+        * Product Requirements
+        * Activites associated with product deliverables
+
+========================================================================================
+
+Trait of an effective product owner
+
+A product owner is task with ensuring that the team is building the right product or service.
+
+    according to the scrum guide, "The Product Owner is responsible for maximising the value of the product result from work of the scrum team. How this is doen may vary widely accross 
+organizations, Scrum Teams, and individuals." Product owners maximize the value of the product by representing and expressing the voice of the customer throughout the project duration.
+a product isn't useful to its customers if that product doesn't fulfill their expectiations and meet their needs. 
+
+responsibilities
+    - continuously maximizing the value of the product delivered by the scrum team. their key activity is acting as the voice of the customer within the team.
+    they represent and express this voice through their ownership of the product backlog.
+
+    - Helps the scrum team understand why their work matters withing the overall goal and mission.
+
+    - Prioritizes the product backlog to optimize delivery and value to customers
+        Creating and clearly communicating Product Backlog items (The Product Backlog contains all of the features, requirements, and activities associated with deliverables to 
+        achieve the goal of the project.)
+
+    - ensures the backlog is visible and transparent to all
+        Ensuring that the Product Backlog is transparent, visible, and understood
+
+    - makes sure the product or services fulfills the customer's needs
+
+    - Developing and explicitly communicating the Product Goal
+
+Roles
+ - requires them to be customer-focused
+ - decisive
+ - flexible
+ - optimistic and positive
+ - available
+ - collaborative
+
+========================================================================================
+
+traits of an effective development team
+
+The people who do the work to build the product.
+size ranges from 3 to 9 people.
+
+traits
+- cross-functional
+    - Executing sprints by designing, building, and testing Product Backlog items in increments
+
+- self-organizing
+    - Creating a plan for the Sprint, the Sprint Backlog (the set of Product Backlog items that are selected to be completed during the upcoming Sprint)
+
+    - Instilling quality by adhering to a Definition of Done
+
+    - Adapting their plan each day toward the Sprint Goal
+
+- supportive
+    - Holding each other accountable as professionals
+
+- customer-oriented
+
+========================================================================================
+
+Scrum master vs project manager
+
+scrum master is responisble for helping the team understand scrum theory and practice. they ensure sucrm events take place and hel the team focus on delivering value
+by removing impediments. but unlike a traditional project manager, they do not take on the management of changes in scope or priorities.
+additionallym scrum master do not maintain tradional project artifacets like gantt charts.
+
+==================================================================================
+PRoduct owner vs project manager
+
+In traditional project management, scope management is the primary responsibility of the project manager. But in Scrum, the definition and management of product scope falls to the
+ Product Owner. Conversely, the Product Owner isn’t responsible for team performance—they aren’t considered to be a manager. The project manager leads the project team to meet the
+  project’s objectives and oversees tasks and progress.
+
+There are also similarities between the Product Owner and project manager roles. For instance, both roles are tasked with stakeholder management. This means they both must practice 
+and facilitate effective communication among team members and stakeholders.
+
+Additionally, in many companies—including Google—the definition of product or solution scope is the responsibility of a separate role called a product manager. So, it is 
+important when joining any new company to discover how that company approaches the area of product definition, requirements development, and user research to understand what they 
+consider to be the domain of the project manager. 
