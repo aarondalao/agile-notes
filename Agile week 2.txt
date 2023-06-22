@@ -251,3 +251,98 @@ owns user story mapping
     jeff patton has write some excellent material about the concept of story mapping.
 
 has a focus on functionality
+    - a great product owner has a focus on functionality and the non functional aspects of the product. hours or even story points are less important.
+    the goal of the product owner is to maximize the value for the customer. It's the functonality that has value; therefore, this is the main focus for the product owner.
+
+Is Knowledgable
+    - has in-depth (non)-fucntional product knowledge and understands the technical composition. For large products, it might be difficult to uinderstand all the details, and scaling the product ownder
+    role might be an option, However, the product owner should always know the larger pieces of the puzzle  and hereby make conscious, solid decisions.
+
+Understand the business domain 
+    - unstand the business domain and environment they are part of. A product should always be built with its context taken into account, This includes understanding the organization 
+    paying for the development but also being aware of the latyest market conditions. Shipping an awesome product after the window of opportinity closes is quite useless.
+
+acts on different levels
+    - the most common way to define these levels is strategic, tactical, and operational. a product owner should know how to explain the product strategy at board level, create support at middleware,
+    and motivate the development team with their daily challenges
+
+knows the 5 levels of Agile Planning
+    - within agile, planning is done continuously.
+    - level 1 -> Vision - will provide input to the
+    - level 2 -> Product Roadmap -> a long range strategic plan of how th ebusiness would like to see the product evolve.
+    - level 3 -> Releases -The product owner can plan this based on the product roadmap, market conditions, and status of the product.
+    - level 4 -> Sprint planning -> the team plan and agree on Product Backlog items the are confindent they can complete during the sprint and help the achive the sprint goal
+    - level 5 -> Daily Scrum -> used to inspect and adapt team's progress towards realizing the sprint goal.
+
+is available
+    - available to the stakeholder, the customers, the development team, and the scrum master. important questions are answer quiuckly and valuable information is provided on time.
+    the product owner ensures that their availability never blocks the progress of the development team.
+
+is able to say 'No'
+    - the most obvious, but most difficult characteristic to master. Saying yes to a new idea or feature is easy; However, good backlog management encompasses creating manageable product
+     backlog with items that probably will get realized. Adding items to the backlog knowing nothing will happen with them only creates 'waste' and false expectations.
+
+Acts as a "Mini-CEO"
+    - they have a keen eye for opportunititesm focus on business value and the Return on Investment and acti proactively on possible risks and threats.
+    Everything with the growth(Size, quality, and market share) of the produc taken into account
+
+Knows the different types of valid Product Backlog items
+    - can clarify the fact that the product backlog consists of more than only new features. For example:
+        * technical innovation
+        * bugs
+        * defects
+        * non-functional requirements and experiments
+    should be also taken into account
+
+Takes backlog refinement seriously
+    - spends enough time refining the product backlog. Backlog Refinement is the act of adding detail, estimates, and order to items in the product backlog. The outcome should
+    be a Product Backlog that is granular enough and well understood by the whole team.
+
+------------------------------------------------------------------------------------------------------------------------------------
+Scrum Master
+
+Acts as a:
+
+* servant leader whos focus is non the needs of the team members and those they serve(The customers), with the goal of achieving result in line with the organization's values,
+principles, and business objectives.
+
+* facilitator by setting the state and providing clear boundaries in which the team can collaborative
+
+* coach by coaching individals with a a focus on mindset and behavior: the team in continuous improvement, and the organization in trully collaborating with the scrum team
+
+* conflict navigator to addres unproductive attitudes and dysfunctional behaviors
+
+* Manager responsible for managing impediments, eliminate wastes, managing the process, managing the team's health, managing the boundaries of self-organization, and managing
+the culture.
+
+* Mentor that transfers Agile knowledge and experience to the team
+
+* teacher to ensure scrum and other relevant methods are understood and enacted
+
+A great Scrum Master:
+
+* Involves the team with setting up the process
+* Understands team development
+* Understand principles are more important that practices
+* Recognizaes and acts on team conflict
+* Dares to be disruptive
+* Is aware of the smell of the place
+* Is both dispensable and wanted
+* let their team fail (Occassionally)
+* Encourages ownership
+* Has faith in self-organization
+* values rhythm
+* knows the power of silence
+* Observes
+* Shares experiences
+* Has backpack full of different retrospective formats
+* can coach professionally
+* Has influment at organizational level
+* Prevents impediments
+* isn't notices
+* forms a great duo with the Product Owner
+* Allows leadership to thrive
+* is familliart with gamification
+* understands there's more than just scrum
+* leads by example
+* is born facilitator
