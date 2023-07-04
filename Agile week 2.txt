@@ -73,7 +73,7 @@ Essential Scrum Roles and vision|misson
 one of the Agile Priciples states:
     "give them the environement and support they need, and trust them to get the job done."
 
-Mission
+Mission statement
     A short statement that stays constant for your team throughout the process and gives them something to work toward.
 
 Product vision 
