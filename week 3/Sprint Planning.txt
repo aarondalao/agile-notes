@@ -1,0 +1,22 @@
+Sprint planning 
+
+The entire Scrum Team comes together and mets to confirm how much capacity, meaning time and
+people are available during this sprint, and then they identify what timea from the backlog 
+will be done during the sprint. This becomes the Sprint Backlog, and ultimately, the Sprint 
+goal.
+
+Definition of done
+refers to an agreed upon set of items that must be completed before a user storing or Backlog item
+can be considered complete.
+
+* the code or solution itself is reviews by an independent peer group
+* The product or unit passes all testing requirement, which could include security or performance 
+testing.
+* Documentation is completed
+* All user story acceptance critera specified by yhe product owner is metaphorical
+* the product owner accpets the user story.
+
+Sprint backlog
+    - the set of Product Backlog items that are identified for completion during the upcomming
+    sprint.
+
