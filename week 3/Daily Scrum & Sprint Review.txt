@@ -1,0 +1,117 @@
+Notes:
+    - the most efficient and effective menthod of conveying informatiopn to and within
+    a Dev Team is face to face conversation.
+
+two kinds of face to face events:
+    - Daily Scrum 
+    - Sprint Review
+
+Daily Scrum
+    - also refered as Stand up
+    - synchronizes and prioritize activies for the day.
+    - 15 mins, same time and place everyday, each team members answers the following questions:
+        - What did i to yesterday that helped the dev team, meet the Sprint goal?
+        - What will i do today to help the Dev team meet the Sprint Goal?
+        - Do i notice any impediment that prevents me or the team from meeting our goals?
+    - should provide the scrum master with the opportunity to quickly unblock the team with little delay
+    - Daily stand ups are an opportunity to reinforce focus on the Sprint Backlog and Goal.
+    - must happen everyday, as per the Official Scrum Guide.
+    - can be less frequent and still be as effective as the suggested time block period set by the
+        Official Scrum Guide.
+    
+Sprint Review
+    - crucial to the Scrum Pillars of inspection and adaptation, and demonstrate the values of 
+    openness, courage, and respect.
+    - a meeting with the entire scrum team where the product is demonstrated in order to determine
+    which aspects are finished and which aren't.
+    - key members of this event: 
+        - Dev team
+        - Product Owner
+    - will cover an exploration of which items shoudbe considered done in the Product Backlog
+    - should be really fun and uplifting, this is the time when teams gets to impress each other
+    with the cool things theyve accomplished over the last 1 to 4 weeks.
+    - time boxed meetings should not be exceed 4 hours and theyre a good opportunity for the team
+    to practice the Scrum Values of openness and respect, and they give feedback about the completed
+    work. 
+    - is a time for the team to demonstrate what they've accomplished and unveils what is called
+    the product increment
+    - at the end of each sprint, only items that have met the definition of done are considered 
+    part of the Product Increment.
+    - Anything that is not done goes back to the Product Backlog.
+
+benefits of group inspection of work product
+    - it makes the feedback as immediate as possible. no need to wait for people to review on
+     their own and senting their feedback later on.
+    - everyone has a voice, leeding to a shared sense of ownershopoof every aspect of their
+    product launch.
+    - the team learn smore about how theire marketing teammates does their job, leading to 
+    greater trust and understanding between team members.
+
+Product Increment
+    - what's produced after a given sprint and considered releasable.
+    - a product is releaseable when the team has developed a Minimun Viable Product
+
+Minimum Viable Product 
+    - is a version of a product with just enough features to satisfy early customers.
+
+
+===================================================================================================================================
+
+Releasable Increment versus Minimum Viable Product
+
+Scrum Gude states that "An Increment is a concrete stepping stone towards the Product Goal. Each Increment is additive to all prior
+increments  and thoroughly verified, ensuring that all increments work together. In order to provide value, the Increment must be
+usable."
+
+Potentially releaseble product increment
+
+Potentially releasable (or shippable) Product increment is a handy way for teams to think about the desired result of a Sprint. 
+The goal for every Sprint is to result in a completed, tested, ready-to-ship addtion to the product or solution. This doesn't mean
+the product will actually ship to customers - that is why they use the word "potentially". Consider, for example, building an application
+for finding and adopting pets. Three features on the product backlog could be:
+
+    * Presenting information about available pets
+    * Rating potential matches base on adopters
+    * Alloing user to contact the adoption center
+
+It doesnt make any sense to ship one of those features in isolation, but finishing a potentially releasable product increment is helpful
+because it enables the team to see one feature in its entirity rather that to work on bits and pieces of all three features with none
+of them actually completed. With a potentially releaseable Product increment, you will create a complete, working, tested implementation
+of one feature in a single sprint.
+
+having a potentially releaseable increament also allows the team to get ealry feedback on the porduc, ensure that the work is high quality,
+and have the opportunity to respond to change. You should always focuys on a potentially releasable product increment as your sprint goal.
+
+
+Definition of Done
+    - is a formal description of the state of the potentially releasable product increment and what it means when it meets the 
+    quality measures required for the product. It is the team's agreed-upon requirements for any backlog item that is considered "done".
+    - the important part of figuring out your team's definition of done is to have an explicit, shared understanding of what being "done"
+    entails.
+    - In a Scrum Team, it is ultimately the decision of the product owner to ensure there is value before releasing an item. to determine
+    this, they may consider a few things:
+        - Is the increment complete?
+        - Will it bring value and does it meet quality measures? Has it been well-tested?
+        - is it usable by the end user? Can we use their direct or indirect feedback to improve future versions of the product? 
+
+Comparing Releaseable product Increment to Minimum Viable Product
+
+Mininum Viable Product (MVP) 
+    - is a version of a product with just enough features to satisfy early customers.
+    - Coined by Eric Ries, "that version of a new product wich allows a team to collect the maximum amount of validated learning about
+    customers with the least effort."
+    - gathering insights from an MVP enables quicker feedback from users that developing a full featured product that may not be 100%
+    tested or secure.
+    - Some examples:
+        - a landing page for your website
+        - a "buy now" button that doesnt do anything other than register that someone has clicked it.
+
+A minimum viable product is a package of features that may take seveal sprints to develop, but every sprint's goal is to produce a 
+product increment. 
+
+Key Takeaways
+
+so can a releasable incremnet be an MVP? yes. Does it always have to be an MVP? not necessarily. A Scrum Master or product owner is always 
+making sure that the team is build potentially releasable increments of the solution or product. then, the product owner uses those product
+increments and business insights to determine what will make up a valuable and viable relase of the product to their customers. This is
+based on both user value deliverent and the ability to gather feedback that will continuously improve the product.
