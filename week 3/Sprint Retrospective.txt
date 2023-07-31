@@ -35,3 +35,58 @@ key takeways
     Facilitating conversations among the scrum team, both during retrospectives and in
     everyday workflows, is an incredibly important aspect of being the Scrum master
     and a project manager.
+
+    =============================================================================================================
+
+sprint retrospectives: pitfals and best practices
+
+Retrospectives
+    - workshops or meetings that give project teams time to reflext on a project
+    and brainstorm potential future improvements. 
+        
+In the scrum framework, Sprint retrospective occur at the end of each Sprint, 
+which is usually every one to four weeks.
+
+Sprint Retrospectives 
+- key pratices that supports Scrum Theory and values.
+- critical moment to inspec and adapt to the outcomes produced within the Sprint 
+timebox.
+- retrospectives occur much more ofter in Scrum that in traditional project management,
+so it is importat to consider some of the best practices and pitfalls to avoid to help
+ make them engaging and productive for the entire team.
+
+pitfalls
+
+    * Avoid too many gimmicks
+        - there are many fun games and exercise that tcan be use by a scrum master
+        when facilitating a sprint retrospective. however, not all teams enjoy this
+        style. COnsider using these exercises only occassionally or when te team asks
+        for new ways of doing retrospectives.
+    * Try not to only focyus on the negatives
+        - Not only is it necessary for the tam to recognize what's not working well,
+        it is also important to highlight where they exceeded expectations. This ensures
+        that thte team both avoids failures and repeats successes as well.
+    * Avoid changing processes after each retrospective.
+        - it is okay to keep new process in place for a few sprints before deciding
+         whether it was useful or not. You can always make note of opportinities for 
+         for change, but try to wait a few sprints before implementing new changes.
+
+Best practices
+    * Ask open ended, probing questions
+        - Ask questions that require thoughtfull discussion rather that a yes or no answers.
+        For example, "How could we have better achived our Sprint Goal?" rather than "Did we
+        achieve our Sprint Goal?"
+    * Consider diverse styles of communication and Participation
+        - Make it easy for all team members to contribute their ideas and feedback. For example,
+        not everyone feels comfortable speaking up in a large group. try things like starting the 
+        retrospective with silent reflection by journaling or putting the team into pairs before
+        starting a larger group conversation.
+    * Cover many aspects of the psrint when conducting a retrospective
+        - The productivity and efficiency of the team
+        - The scope and understanding of the definition of done.
+        - communication and interactions within the team
+        - stakeholder communication
+        - progress towared more long-range release plans
+    * Consider reflecting periodically on Scrum Theory and values by asking specific questions
+        - For example, ask, "how could the team become more transparent?" or "How did we abide by 
+        our Scrum values in this Sprint?"
