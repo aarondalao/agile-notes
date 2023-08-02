@@ -1,0 +1,33 @@
+Burndown Charts
+    - measures time against the amount of work done and the amount of work 
+    remaining.
+    - the goal of the burndown chart is to keep the team aware of who they'recognize
+    doing against the overall goals.
+    - in a scrum team, burndown charts reflect how to team is doing with completing
+    user stories during the sprint.
+    - the scrum master will review the burndown chart, sometimes daily, to examine 
+    if the team will hit their goals or not.
+    -In Scrum, a burndown chart reflects the team's progress completing user stories
+    and the amount of work completed in the sprint.
+    - if your team is using t shirt sizes instead of story points, simply map the sizes 
+    to a numver adn use that number for the burndown and velocity calculations. for example,
+    an extra small is 1 point, small = 2 pnt, medium = 5 pts, and so on.
+
+velocity
+    - points a team burns down in a sprint on average.
+    - measure of how many poihnts a team burns down during a single sprint on average.
+    - when a team is conducting Sprint Planning, Theyre using average velocity over at 
+    least three sprints to determine how many items they can safely add to their sprint
+    backlog.
+    - few notes on velocity calculations:
+        - there is no such thing as good or bad velocity.
+            - it is simply what the team has historically been able to achieve in a
+            predetermined timebox.
+        - each team  will have different velocity, especially since each team decides 
+        on their own point system callibration. 
+    - once you have a stable velocity and a refined backlog with prioritization and estimates,
+    this undlocks an incredibly valuable superpower. You can now tell you stakeholders and 
+    sponsors two important things. You can tell tehm approximately how long it will take to
+    complete the entire product backlog and how much of your backlog will be completed by 
+    a particular time. This ability to confidently predict when things can get down 
+    is ne of the most powerful tools in Agile and Scrum.
