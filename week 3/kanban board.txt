@@ -1,0 +1,29 @@
+Other visual tools
+* scrum board   - same thing as kanban board
+* kanban board  - same thing as Scrum board
+
+both boards has 3 main features:
+    * Visualization
+        visualization can be important strategy for learning and tracking.
+
+        Kanban board communicates everyting we need to know at a glance. we can point at specific work items on the board 
+        we want to discuss, use images with variation and colors and sizes as we check in on work items, and we can notice 
+        where the challenges are in our team. 
+
+    * work-in-progress limits (WIP limits) 
+        - are contstraints on how many work items the team actively works on at any given time.
+        - these provices focus for the team, which is one of our scrum team values.
+        - each team may set a WIP limit based on their configuration and context. this way, its really obvious to noticewhen the
+        team is going beyond the wip limit.
+        
+    * flow of work
+        - kanban board can give you a better sense of flow of work through the teams execution process. 
+        - Physical Post-it notes or even virtual versions of Kanban or Scrum boards allows the team to experience the movement of 
+        work from one phase to another.
+        - Using a Kanban or Scrum board, the team will move the items through the following stages: todo, doing, and done. This action
+        often takes place during the daily scrum, but the team can move items at any time.
+
+Key takeaways
+
+Kanban and Scrum boards are really useful because they help you visualize your progress, set and maintain your team's 
+workload and WIP limits, and give you a sense of the flow of work throughout the team's execution process.

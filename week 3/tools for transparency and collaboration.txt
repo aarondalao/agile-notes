@@ -1,0 +1,51 @@
+Tools to facilitate the Scrum and Agile Workflows:
+    - these can improve collaboration and keep your team workflow transparent.
+
+
+One of the Scrum's pillars is transparency. So a Scrum team's success is very dependent on transparency
+within the team, and tools encourage everyon to be fully aware of progress and updates.
+
+These tools will be used to store the Product Backlog, Sprint Backlog and many other essential documentation.
+Using scrum tools will help your team keep all of your progress organized and in one centralize place.
+
+Scheduling and management tools:
+    Traditional Project Management:
+    * Microsoft project 
+        - very powerful schedule and resource management capabilities
+
+    Scrum Based - most critica tool you'll need is stomething to manage your Backlog and Sprints.
+    * Jira
+        - by Atlasians
+        - popular team project management tool
+        - supports all aspects of team and backlog management.
+        - can be customised for tour team and will provice you with the central place to find all things
+            related to your scurm team, your Product Backlog, Sprint definitions, your velocity, your 
+            burndown charts, and much more.
+
+    * Some teams build theyr tooling inside of spreadsheets
+    * Trello
+        - mostly Kanban Tool
+    * Asana
+        - works great for Sprint Planning and Backlog Management.
+        - can view discuss and manage team priorities. this allows teams to understand who's doing what 
+        and their time frame for each teaks. 
+        - its great for assigning tasks, automating workflows. tracking progress, and communicating with 
+        stakeholders. 
+
+
+Documentation tools
+    - or word processing tool
+    - this ensures that you capture key information about your project in a long format.
+    
+    * Google Docs/ sheets
+        - features both documentation and collaboration all in one tool.
+
+    Presentation tools
+
+    * Google slides / powerpoint
+
+Collaboration tools
+
+    * video conferencing 
+    * one-on-one online chates
+    * emails
