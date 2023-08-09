@@ -43,3 +43,96 @@ how to ensure the team is focused on a Value Driven delivery
 
 Building the right thing, building the thing right, and run it right all work together to ensure that the team creates a steady and continuous delivery of 
 values to the users throughout the life of the product.
+
+========================================================================================================================================
+
+Case study: forming a value driven task force
+
+Learning form case studies
+
+as you pursue your career in project management, you will come across many resources for learning about other companies and their
+journeys to become agile
+
+case studies - in depth, data driven analyses of business, community, or organization - are value tools for gaining key industry 
+insights and learning from the successes and failures of your competitors.
+
+when reading case studies, focus on the problem, the effect it had on the business or organization, and the pros and cons of the
+solutions reached to help you determine some applicable key takeaways.
+
+as you read, ask yourself: 
+    * what is the issue?
+    * What is the goal of the analysis?
+    * What is the context of the problem?
+    * What key facts should be considered?
+    * What alternatives area  available to the decision-maker?
+    * what would you recommend, and whgy?
+
+Value -driven delivery at Sephora : external reading
+
+
+The case study linked below is about how the teams at Sephora, the multinational retailer of personal care and beauty products, 
+created value-driven delivery by forming an Agile task force. 
+
+As the case study details, Sephora’s goal was to develop an organized and efficient process for rolling out customer-centered i
+nitiatives. The beauty retailer wanted to maximize their paid media and create custom messaging that was personalized to meet their 
+customers’ needs.
+
+Keep the questions above in mind as you read through the case study. Notice how the various roles and responsibilities were 
+essential to the process and how the company brought people from across the organization together to ideate, test, and analyze. 
+
+When you are finished, think about how Scrum benefitted Sephora and how it improved their overall business model.
+
+
+At the heart of what we do at Sephora lives a desire to deliver best-in-class experiences for our client, be it shopping on our app,
+ an enjoyable journey through one of our stores, or personalized recommendations based on products they love.
+
+
+With so many initiatives in the queue to serve our clients, we need an organized, efficient process to turn these ideas into realities.
+ That’s where our newest task force comes in: the Sephora Stat Sig team! This dedicated group of strategists, data scientists, analysts
+ , information technologists, developers, creatives, marketers, and product managers come together to do what we do best — but faster.
+
+“It’s a progressive way of working,” said Sabrina Keller, Senior Manager, Personalization & Optimization and activation lead. “Not 
+many retailers are doing this.”
+
+This agile process, Scrum, allows us to be nimbler and rapidly test and measure while maintaining accuracy and quality. It brings 
+people from across the organization together to ideate, test, analyze, and relentlessly ask the “what-ifs?” to take personalization and
+media to the next level.
+
+
+Central to Scrum is a sprint, in which the Stat Sig team performs a “stand-up” where ideas are created, then tested, analyzed, and 
+rolled out. All of this happens in the War Room, an area on the second floor of 425 Market Street that has been transformed into a 
+workspace with charts, calendars, to-do lists, and a lot of post-its. It serves as the single point of coordination for all the Stat Sig team’s Scrum 
+activities.
+
+It wouldn’t be Sephora without a little flair, though — daily progress on CRM and media initiatives are tracked by a team of racing 
+unicorns!
+
+Multiple teams are represented in the War Room, which is extremely important to ensure a holistic view of each pilot the team works on 
+across different channels. Emmanuelle Paput, Director, CRM Strategy, serves as the Agile lead and oversees all the agile processes 
+across the different teams. She bridges the communication between the activation leads, who each are responsible for initiating a pilot within their 
+own respective channels.
+
+“It’s a really magical way of working because it’s helped us to pass barriers and move faster in a friendly environment,” Emmanuelle s
+aid. “We all talk different languages, but Scrum allows us to work in the same process, which provides a real synergy across all 
+different people and skill sets.”
+
+Some goals the team has been working on in 2018 is accelerating the way we deliver messaging and experiences that are responsive to 
+client needs and behaviors, and maximizing our paid media by finding efficiencies that can be redirected to the most impactful 
+opportunities.
+
+Above all, Scrum is showing how our teams live our values every day: initiative is key because they are ideating and working on 
+something that has never been done before; expertise is called upon because multiple teams are contributing something that falls in 
+their specific realm of functional expertise; and of course, teamwork.
+
+“Previous to Scrum, each of the channels within paid media were living in silos,” said Jennifer Nguyen, Paid Media Manager and 
+activation lead. “One of the great things coming out of this is the insight and teamwork among non-paid media channels.”
+
+“We work as #oneteam,” said Andrea Zaretsky, SVP, Loyalty, CRM, and Analytics. “We celebrate each other’s functional expertise and 
+contributions to the mission, and above all, we strive to innovate every day to delight our clients by serving up personalized and 
+relevant value.”
+
+
+
+=========================================================================================================================================
+
+if I were to create a new product, I would make a modular smartwatch that would cater for a lot of people, from fashion to adventurers, fitness jockeys, and first-time buyers who only want a wearable companion. The main feature would be a modular watch frame, where a user can install a module to customize their wearable smartwatch based on the functions they want to do. whether they want their smartwatch to be touchscreen, or a solar-powered one, with a smaller or bigger battery, with a different Global navigational satellite system, or just wanted to change the straps.
