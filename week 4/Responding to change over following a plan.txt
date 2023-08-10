@@ -1,0 +1,63 @@
+
+Responding to change over following a plan
+
+as we learning in the beginning of this course, Agile dictates one of its four values to "Responding to change over following a plan".
+This reading aims to clarify some important considerations when implementing a change to the release plan.
+
+The best way to think about changing your plan is to break it down into three stages:
+1) Identifying a needed change
+2) Deciding to make the change
+3) Implementing the change
+
+Step 1: Identifying the needed change
+
+Some aspects of the project that may be subject to change: (the triple constraint- a framework for evaluating change in Agile and
+traditional projects)
+    * Time
+        - referst to the elements of time or layout of the deliverables over a period of time. This could include the product roadmap
+        timeline, release schedule, or even the sprint duration. This is the "when" of the project. 
+    * scope
+        - refers to the contents of the product roadmap, the items in the product backlog, the intended deliverables of the project, 
+        and the intended users or customers. This is the "what" of the project.
+    * Cost/resource
+        - refer to the makeup of the Development Team, Project managers, and product owners, and other business people as well as the 
+        equipment available to create the deliverable. This is the "how" of the project.
+
+Agile projects are open to change in any of these three areas, and a needed change chould be identifioed by any project stakeholder,
+including the product owner, project manager, scrum master, or the development team themselves, Sources of identified changes could 
+include:
+    * Customer feedback on early prototypes in new features and some deleted features (scope change)
+    * Sprint retrospective identifies an area of understaffing (cost or resource change)
+    * Critical Project dependencies or deliverable dates have shifted, resulting in a change to the project roadmap(schedule or time 
+    change)
+
+Step 2: Deciding to make the change
+
+There are many decision-making models available to reference. here are the basic steps involves in most of these models:
+
+    * Identify the "decider"
+        - It is best to have a single person - generally the Product Owner or a senoir stakeholder - in the role of the decider to 
+        ensure consistency and accountability.
+    * Develop and share what factors are import to the decision
+        - and gather supporting data that will help the decider make the decision.
+    * Openly discuss the benefits and cost of the decision
+        - Identify areas of uncertainty and capture assumptions
+    * D0CUMENT THE DECISION
+
+Step 3: Implement the change
+
+Once the change is approved, it is important to do several things:
+    * Document the change and decision-making process
+        - include meeting notes, pros/cons lists, assumptions, and data that went into making the decision to change th project.
+    * Capture the change in any affected artifact
+        - Update roadmaps, Product Backlogs, staffing plans, and integration dates, and include a reference to the source of the 
+        change so that the stakeholders can refer back to it. Consider using revision labels or dates on affected documents like
+        "version 1.2" or "updated on December 20th" so that the team can clearly recognize that the document has changed.
+    * Share the change with all affected stakeholders
+        - You can do this through many types of forums: in person at meetings, in documentation and meeting notes, and through 
+        email annoucements.
+    * Monitor the change for a certain amount of time.
+        - This ensures that the team is supportive and aware of the change.
+
+If the change was not approved during the decision stage, you should still document the information and logic used to make the decision.
+You mayu even consider putting a change on hold while you wait for more information to make the decision with higher confidence.

@@ -15,10 +15,13 @@ Burndown Charts
 
 velocity
     - points a team burns down in a sprint on average.
-    - measure of how many poihnts a team burns down during a single sprint on average.
+    - measure of how many points a team burns down during a single sprint on average.
     - when a team is conducting Sprint Planning, Theyre using average velocity over at 
     least three sprints to determine how many items they can safely add to their sprint
     backlog.
+    - when we refer to story points, we are refering to a unit of measurement that expresses
+    the estimated effrot required to implement that backlog. These story points are callibrated
+    and decided on by the team.
     - few notes on velocity calculations:
         - there is no such thing as good or bad velocity.
             - it is simply what the team has historically been able to achieve in a
@@ -31,3 +34,55 @@ velocity
     complete the entire product backlog and how much of your backlog will be completed by 
     a particular time. This ability to confidently predict when things can get down 
     is ne of the most powerful tools in Agile and Scrum.
+
+Interpreting velocity : Do's and Don'ts
+
+Calculating velocity
+
+estimating effort can be done in a variety of units. Most often in Agile Teams, story points or T-shirt sizes are used to estimate effort.
+if you use t-shirt sizes, your team will map those sizes to a numeric value for the purpose of calculating a team velocity.
+
+when your team begins running sprints or iterations, they wont be able to accurately determine velocity because they will no historical 
+basis on which to calculate an average number of points completed in a sprint. in their very fist sprint, your team will make a rough guess
+as to how many items they can complete just to get started. Once a few sprints have been completed, your team will have a good measure of
+their velocity and they will use that number to determine which items to include in their Sprint backlog. This should be easy to do if your 
+team has a properly prioritized and estimated backlog to work from. as you will recall from the video, this process is called backlog 
+refinement.
+
+Using velocity for good
+
+when interpreting velocity it is important to keep a few things in mind. you may feel inclined to share velocity with members outside of your team
+or to use velocity as a performance of comparison metric. you may also feel inclined to use it to determine a project delivery date. However, 
+some Agile experent warn against these practices. let's discuss why.
+
+DO: BE CAREFUL WHEN SHARING VELOCITY WITH EXTERNAL STAKEHOLDERS
+
+Velocity can be helpful for individuals outside of the Scrum team, but when sharing it with non-team members, be very careful. Since velocity is
+different for every team, a stakeholder may not have enoguh context to interpret it. Be sure to share relevant supporting materials to help add
+context. A good example of this is sharing the velocity with a corresponding date range and visualization that indiciates trends over time. there
+may be dips and spikes in velocity that draws insights and encourage improvements in future projects.
+
+DO: PROCEED WITH CAUTION WHEN USING VELOCITY AS A METRIC FOR PROJECT DELIVERY DATE
+
+Using a velocity to estiamte the delivery date of a project spanning numerous sprints can be tricky. velocity can be used as a pressure point by 
+exernal stakeholder who want to set a date for their product launch. Velocity can also create false expectations and a harshly competitive culture 
+when the team doesnt hit estimated dates. Projecting deliverable dates is harmful because it can take a team several sprints to really understand
+what they are capable of delivering in each iteration. Also, if you map out too many dates in advance, you arent able to accound for the changes
+and issues will arise. Therefore, make sure you are being carefull not to use estimated delivery dates as commitments.
+
+DONT: USE VELOCITY AS A PERFORMANCE METRIC
+
+It is natural for individuals to want to quantify performance through data, but in can be detrimental for a team to feel that kind of pressure
+within their sprints. There may be executives, sponsors, or stakeholders that want to use velocity as a performance metric, but this will only
+hurt the team by encouraging tactics like indimidation. If the team is worried about their velocity making it seem like they are underperforming,
+the team's culture can become harmed as a result.
+
+DONT:  USE VELOCITY AS A COMPARISON METRIC
+
+If you are leading a few different scrum teams, you may be tempted to compare the two team's productivity based on their velocity. You may have the 
+impulse to check which teams are completing the most story points per iteration. However, the weight of different story points is subjective because
+they are created by the team. One team may consider a story to be five points, but another team might consider it to be closed to three points.
+
+Therefore, judging productivity solely on velocity isn't accurate or fair.  Additionally, velocity is not a measure of value. one team's velocity
+might differe from another team's, but this valriability is fine as long as both teams are deliverying value to your stakeholders.
+

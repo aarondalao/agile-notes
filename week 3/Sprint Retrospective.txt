@@ -5,10 +5,11 @@ Sprint Retrospective
 Reflections to do for the Scrum Team in Sprint Retrospective:
 *   what's working or not working for the team regarding the people, the process,
 and the tools.
-*   What improveents are workth exploring in the next sprint?
+*   What improvements are worth exploring in the next sprint?
 *   What improvements were put in place for the last Sprint? Were they helpful or not? why?
 
 Some Key measures to take to ensure Sprint Retrospective are a success:
+
 * blamelessness 
     - its important to demonstrate the Scrum Value of respect and always allow the team
     to remain blameless.
@@ -16,16 +17,19 @@ Some Key measures to take to ensure Sprint Retrospective are a success:
     feedback, your outcome wont be as a beneficial.
     - need to create a safe space for candor by acknowledging potential awkwardness, and
     if needed, create a space for anonymous or private feedback.
+
 * Participation
     - is key because retrospective only works if participants feel like their input matters
-    - if you notice folks arent volunterring their perspectives, search for ways
+    - if you notice folks arent volunteering their perspectives, search for ways
     to generate new ideas, such as asking them: What is one thing we could try 
     in the next sprint? What slowed us down? What happened that we didnt expect? 
     The answer to these questions can help you understand how to improve.
+
 * balance the negatives with the positives
     - dont just ask where you can improve, but also ask things like, where did we
     notice success? You want your team to feel like they were successful, and you also
     want to recreate these successful outcomes.
+
 * make sure to act on it
     - team can get discouraged from participating in future retrospectives if it feels 
     like their feedback wont inspire change. Search for improvements, or simply convert 
@@ -41,7 +45,7 @@ key takeways
 sprint retrospectives: pitfals and best practices
 
 Retrospectives
-    - workshops or meetings that give project teams time to reflext on a project
+    - workshops or meetings that give project teams time to reflect on a project
     and brainstorm potential future improvements. 
         
 In the scrum framework, Sprint retrospective occur at the end of each Sprint, 
@@ -62,10 +66,12 @@ pitfalls
         when facilitating a sprint retrospective. however, not all teams enjoy this
         style. COnsider using these exercises only occassionally or when te team asks
         for new ways of doing retrospectives.
+
     * Try not to only focyus on the negatives
         - Not only is it necessary for the tam to recognize what's not working well,
         it is also important to highlight where they exceeded expectations. This ensures
         that thte team both avoids failures and repeats successes as well.
+
     * Avoid changing processes after each retrospective.
         - it is okay to keep new process in place for a few sprints before deciding
          whether it was useful or not. You can always make note of opportinities for 
@@ -76,17 +82,20 @@ Best practices
         - Ask questions that require thoughtfull discussion rather that a yes or no answers.
         For example, "How could we have better achived our Sprint Goal?" rather than "Did we
         achieve our Sprint Goal?"
+
     * Consider diverse styles of communication and Participation
         - Make it easy for all team members to contribute their ideas and feedback. For example,
         not everyone feels comfortable speaking up in a large group. try things like starting the 
         retrospective with silent reflection by journaling or putting the team into pairs before
         starting a larger group conversation.
-    * Cover many aspects of the psrint when conducting a retrospective
+
+    * Cover many aspects of the sprint when conducting a retrospective
         - The productivity and efficiency of the team
         - The scope and understanding of the definition of done.
         - communication and interactions within the team
         - stakeholder communication
         - progress towared more long-range release plans
+        
     * Consider reflecting periodically on Scrum Theory and values by asking specific questions
         - For example, ask, "how could the team become more transparent?" or "How did we abide by 
         our Scrum values in this Sprint?"

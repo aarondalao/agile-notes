@@ -1,4 +1,4 @@
-Creating an effective valuye Roadmap
+Creating an effective value Roadmap
 
 Value Roadmap
 
@@ -25,7 +25,6 @@ tips on creating a release plan
     for the team. This would violate one of our Agile Principles, which states that Agile Processes, promote sustainable development.
     the sponsors, developeres, and suers sould be able to maintain constant pace indefinitely.
 * Factor in any "hard" dates and deadlines 
-
 
         Since Agile is all about embracing and anticipating change, it might seem like having a release plan goes against the actual 
     value of responding to change over following a plan. But having a release plan does not mean you are resistant to change. 
