@@ -17,7 +17,7 @@ traditional projects)
         - referst to the elements of time or layout of the deliverables over a period of time. This could include the product roadmap
         timeline, release schedule, or even the sprint duration. This is the "when" of the project. 
     * scope
-        - refers to the contents of the product roadmap, the items in the product backlog, the intended deliverables of the project, 
+        - refers to the contents of the product roadmap, the it`ems in the product backlog, the intended deliverables of the project, 
         and the intended users or customers. This is the "what" of the project.
     * Cost/resource
         - refer to the makeup of the Development Team, Project managers, and product owners, and other business people as well as the 

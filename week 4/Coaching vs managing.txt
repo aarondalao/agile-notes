@@ -1,0 +1,101 @@
+Coaching versus managing in Agile
+
+Both managing and coaching play important roles in project management. the difference in each approach is in 
+communication. Management is about giving directionsm while coaching is about teaching. Some situations will call for
+coaching, and other will call foiir management. As a project manager,m it is important that you undertand when each 
+skill set is necessary for success.
+
+Managing
+
+Project manager's role:
+    * tasks with delivering a project objective and problem solving as they arise.
+    * keep the team members organized and on track.
+    * streamlines communication and give directions
+    * this is very indicative of a traditional management approach. at its core, managing requires overseeing the work 
+    of others and can include:
+        - Onboarding and orienting new employees
+        - Conducting meetings
+        - Delegating tasks and assignments
+        - Monitoring progress and performance against those tasks
+        - making high level decisions
+    
+In Agile project management, however, teams are designed to be self-managing. A self managing team has the autonomy to 
+choose how best to accomplish their work, rather that n being directed by others from the top down. Agile team members 
+should also feel empowered and equipped to problem-solve on their own.
+
+Even so, there are some cases where the decisive action of a manager is required. examples include if there is an 
+emergency that needs immediate attention. If you are behind on a deadline, or if a client has very specific needs and 
+you are most familliar with them. in a results-driven with little room for error, someone needs to step on and take the
+lead. That is where managung approach comes in.
+
+Coaching
+    
+Althouogh managing seems inherent to project management, coaching is also an important part of the management role.
+
+Coaching is
+    - a two-way commumication style aimed at influencing and developing team member's skills, motivation, and 
+    judgement.
+    - empowers team members to arrive at solutions on their own by teaching them critical thinking and decision-making 
+    skills. This is achieved through offering feedback and providing opportunities for professional development.
+    - when challenges arise, coaches will offer guidance, and get out of the way.
+    - Coaches don't jup in during times of crisis in a way a manager would. Coaches ask questions to help team members
+    arrive at conclusions on their own.
+    - coaches trust that their team members can make smart decisions, and trust can go a long way. When the team members
+    feel trusted, workplace satisfaction increases, and the quality of work improves.
+
+It is appropriate to use a coachign approach when a team member already has experience working on similar projects and 
+is working on growing new competencies or is trying a new approach for the first time. Coachign is about building 
+confidence and capabilities so that individuals can continye grow and improve. There are few principles to keep in mind
+when coaching:
+
+    * Motivate:
+        - Coaches motivate team members to take action. They point out the value in others' work and instill wihtin
+        them a sense of pride in what they do.
+
+    * Support: 
+        - Coaches are an accessible resource for their team to come to when they experience problems of if they 
+        have an idea they want their feedback on.
+    
+    * Encourage and appreciate:
+        - When someone on their team is struggling with a heavy workload, a coach will acknowledge and validate the 
+        weight of their efforts and assure them that they are capabile of handling the challenges ahead.
+
+Coaching is appropriate in many circumstances, especially when you need to build up the confidence of an individual or A
+team. The most effective leaders strike a health balance between managing and coaching based on the needs of the situation,
+individual, and project they are leading. Examples of where coaching would be helpful include when a team member is 
+branching out into using new technology or discipline that will turbocharge their career opportunities, when an 
+individual's behavior is having unintended consequences on the team dynamics that are not readily visible. or if a team
+is recovering from a setback.
+
+Here’s a scenario where a project manager or Scrum Master should step in to coach a team: Imagine a Scrum team has 
+failed to launch a product that meets the customer needs Sprint after Sprint. The Product Owner continues to communicate
+to the team that the features are not quite right, and they need to rework the product in the next Sprint or release. 
+The team feels deflated, and they are showing signs of burnout because they keep working on the same three features. 
+Here is a perfect opportunity to do some coaching with the whole team. Consider bringing them together for a working 
+session and cycle through all three principles of coaching:
+
+    1) Motivation: Ask the team to brainstorm positive reasons why the customer is providing this feedback and why it matters 
+    to create an excellent end product.  
+
+    2) Support: Work with the team to capture ideas on how to streamline the customer feedback process, such as a design Sprint
+    with the customer in attendance.
+
+    3) Encourage and appreciate: Set up an event where the team celebrates the work they have accomplished so far, and make the
+    event fun and inclusive for all team members.
+
+Key takeaways
+
+Managing and coaching are distinct leadership approaches that each yield different results, and both styles require 
+effective communication. A managin style typically utilizes one-way communication to assign task and give directives.
+Coaching relies on open communication in both directions to help develop an employee's or team's skills, so they can 
+become self-sufficient. Some team members and company cultures will naturally favor one style over another, but both are 
+necessary leadership skills. As an Agile Project manager or Scrum Master, You will use both styles. That said, in Agile 
+and scrum, a coaching style is ussually the best initial optio9n since it will increase the capabilities of the team, 
+leading to more agility over time.
+
+When deciding which approach to use, ask youself:
+
+1) what is the desired outcome?
+2) what is the skill level of the team member who has encountered a problem?
+3) What does the situation need now to reach the desired outcomes?
+

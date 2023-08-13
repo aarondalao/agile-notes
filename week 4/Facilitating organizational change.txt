@@ -1,0 +1,50 @@
+The role as a project manager in an organization that wants to implement Agile Practices.
+
+When an organization shifts the way it conducts busimess, it ussually requires a shift in its 
+culture as well. Understanding organizational culture and the change manageent process is crucial
+when introducing new ways of working.
+
+Organizational culture
+    - based on shared workplace values and pops up in people's behaviors, activityes, and the way 
+    they communicate, and how they work with each other.
+    - a change that's our of sync with the existing culture is much more difficult to complete.
+    - in fact, theres research proving that companies that dont consider the cultural aspects of
+    Agile are more likely to fail.
+
+Change management
+    - the process of getting folks to adopt new product, processs, or in Agile's case, a new value
+    system.
+    - Unless the organization has many years of Agile Behaviors and experience, you may be facing 
+    a change in organizational culture. These changes TAKES TIME. sometimes years to complete.
+    - Youll still be adding value by demonstrating to your team or organization new and different
+    ways of approaching their business.
+    - "Change takes patient persistence." It may feel like things are taking too long, but in many cases, 
+    small change add up to a big change in the long run.
+
+Ways i can bring Agile or Scrum to a new taem:
+
+1) Think of ways to create a sense of ownership and urgency
+    - When people feel a sense of ownership and ugency around the project it increases interest, motivation, and 
+    engagement with the project outcome. 
+
+    One way to create sense of ownership:
+
+        * find an executive sponsor who also feels a sense of ownership for the change that you are creating. Whenever 
+        possible, point out connections between changes you 're making and the company's stated mission or values. 
+        Having buy-in from someone at the top increases your chages of successfully driving any change in organizational
+        culture. Ideally, your sponsor will reinforce the benefits of Agile to the organization and give you the support
+        and resources you need.
+
+    Create a sense of urgency:
+
+        * Ask the team, the organization, and the stakeholders questions about what's working and what's not working 
+        right now. Then I ensure the changes relate directly to those opportunities.
+
+        Sample Questions:
+            * What is preventing us from providing the best possible product to our customers?
+            * What is allowing our competitors to outperform use in this market? 
+            * How can we help our teams becoue more productive and supportive in their work?
+
+        This not only helps you prioritize your work, you get the team thinking about the possibilities they'll enjoy
+        if the change is successful. You can use these questions going forward to collect feedback during the change.
+        Coming back to these questions and demonstrationg the incremental improvements is the true spirit of Agile.

@@ -1,0 +1,70 @@
+The Influencer change framework - Joseph Grenny, Kerry Patterson, David Maxfield, Ron McMillan, Al Switzler
+
+What does it mean to be an Influencer?
+
+It is about someone's ability to lead and influence others to change their behaviors, hearts, and minds to produce
+meaningful, sustainable results. As a project manager you will be asked to lead efforts that require this level
+of change, and applying this model can lead to a big impact.
+
+To influence is different that to persuade. Persuasiuon is short-term, while influence is lasting, In order to have 
+real influence, you need others to trust you, consider you an authority, and have confidence in your decisions. As a 
+Project Manager in Agile projects, You may use influence to facilitate organizational change or to get a team to try a
+new tool, process or technology. When facilitating organizational change, influence is the diference between temporary
+changes in behavior and deep change in culture and values.
+
+Three keys to influence
+
+* Clarify measurable results
+    - You can't inflence others to chagne until you know what you want, why you want it, and when you want it.
+    - remember that an effective results are S.M.A.R.T.
+        - Specific
+        - measurable
+        - achievable
+        - relevant 
+        - time-bound
+    - remember to ask yourself what are the "why" entails whenb setting goals for a project.
+    - make sure the me3asures are visible and transparent to the entire team throughout change.
+
+* Find vital behaviors
+    - Vital Behavior
+        - the action an individual taks a pivotal moment in the context of the change they are seeking
+    - real change happens when you can change the behaviors of others. Whenever you are changing the minds of you team, 
+    stakeholders, or customers, it is important to track their current behavior patterns and understand the behaviors
+    you need them to adopt in order to make the change you are seeking.
+    - to determine vital behaviors, you might consult experts, scan the best and most cited-articles and research, or
+    perform a culture assessment by identifying norms and custom within the team.
+    - When identifying the behaviours, evaluate which behaviours are constructive to the change ytou wish to promote 
+    and notice examples of those who succeed where most others fail.
+
+* Use the six sources of influence
+    - The authors of INFLUENCER: The New Science of Leading Change studied companies and individuals who were successful
+    or unsuccessful with implementing change, and they identified six sources or factors that were correlated with 
+    successful change.
+    - consider using all of these sources to increase you chances of success. You may even consider prioritizing these
+    based or your knowledge of your audience.
+
+    1) Personal motivation
+        are the individuals motivated internally to engage in the new behavior? Can you help them "love what they hate"?
+    
+    2) Personal ability
+        Are the individuals capable of performing the behavior? do they have the ability, knowledge, and skills to "do 
+        what they can't"?
+
+    3) Social motivation    
+        are there social contacts or networks encouraging or discouraging this new behavior?
+
+    4) Social ability
+        Does the team have resources within their social network to help them carry out the new behaviors?
+    
+    5) Structural motivation
+        are there rewards or incentives that they will receive if they perform the new behaviours?\
+
+    6) Structural ability
+        are there environmental factors at play that either deter or support the new behavoir? can you make the 
+        incorrect behavior harder to do than the correct behavior?
+    
+Key Takaways
+
+These three keys to influence make up the influence change framework and will improve your chances of sucess with a 
+change. Clarify measurable results, find vital behaviors, and leverage six sources of influence in tandem to lead an 
+organization, team, or an individual, to experience positive change.
