@@ -1,0 +1,109 @@
+Agile team challenges
+
+We'll go through some of the challenges you might encounter during a change process that are specific to Agile teams. As
+a project manager or scrum master, it's your responsibility to help teams improve how they work and coach them on how to
+effectively adopt scrum practices. So anticipating and understanding how to work through common challenges before they
+happen is super important. Remember the four themes of Agile principles that we discussed? To refresh your memory, the 
+themes are: 
+
+    Value Delivery, Business Collaboration, Team Dynamics, and Culture and retrospectives
+
+We'll focus on challenges you migh encounter with an Agile team that are related to the first three themes.
+
+Value Delivery challenges
+
+    - making sure the team is delivering working solutions frequently.
+
+    Signs that your team is experiencing value delivery issue could include things like:
+        * the team has started missing expected delivery dates and is taking a lot longer than usual to complete tasks.
+        * or you might notice that the team seems burned out, is working long hours, and showing signs of exhaustion.
+        * or maybe the team has too many items in progress at any given time, preventing tasks from actually getting 
+            done.
+    if you start to notice your team is struggling in these areas, there are a few thing you can do to help. You can try
+    doing more demos of the solutions with the team to ensure they're deliverying on the value roadmap. When the team 
+    pauses to tae in a big picture view of the workiung product, they are often notice areas where they can improve and 
+    speed up the work. 
+
+        You can also use retrospectives to ask the team of anything is slowing them down, like wating on dependencies or
+    communication challenges. It can also help to do a quick review with teh team and make sure that everyone understand
+    what "done" means. 
+    
+        And finally, be sure to focus on only a few user stories per sprint. This ensures the tam finishes an item 
+    together before moving on. Putting all this into practice can be harder that you might think. My current team is 
+    asked to cover a lot of ground work in each sprint, so it can be tempting for us to try and tackle too much at once.
+    But doing that usually just makes everying take longer, so it's not actually helpfull. It's better to maintain focus
+    and deliver fewer backlogs items in one sprint than to deliver a lot of items in more sprints.
+
+Business Collaboration challenges
+
+    Business Collaboration
+        - about making sure that developer are collaborating with business people on how to build the right product. 
+    
+    Few issues that you might be dealing with business collaboration issues:
+        * You might notice that the team is overwhelemed with critical feedback or change requests from business people
+        after they reviewed the working solution. That could lead people on your team avoiding asking for feedback or
+        complaining about requested changes comping from the PRoduct Owner or business team.
+        * you might start to detech an "us vs them" mentality between team doing the work and management. I've sometimes
+        notice this manifest in negative comments from team members like "Don't give a demo to the salesperson. It's not
+        ready yet, and they'll just point out what's wrong."
+
+    If you notice these signs, there are a few things you can do to help rebuild trust and collaboration between the 
+    developers and the business people. 
+
+        * Try addressing critical feedback and change requests by doing more demos. This ensures feedback comes at a 
+        steady pace and that everyone involved has a shared understand of what done means.
+        
+        * Consider a solution design sprint, which is an entire sprint spent working solely on the solution design. These
+        are the most effective when the working team and the business people actually sit together and collaborate on the 
+        solution.
+
+        * you can help your team focus by ensureing changes to the backlog are introduce only in between sprints. This
+        prevents your team from getting distracted by possible changes which could stree the mout and lead to resentment.
+        For example, i once on a scrum team where teh engineering directore loved to stop by the engineer's desk to ask
+        for a quick dashboard, which is a web page that shows, data, Asking the engineer to do this completely disrupted
+        the teams focus and slowed down the team's velocity. We finally decided to ask the director to come straight to 
+        the scrum master when they needed something so that it could be planned proplely and not interrupt the team's 
+        current workflow.
+
+Team dynamic challenges
+
+        Human beings are complex creatures with lots of different motivations and styles of working, so it's likely that 
+    you'll encounter at least few challenges at this area.
+
+    Common signs of team dynamics and culture issues:
+
+        * low team morale
+
+            If people are super grumpy, irritated, or generally in a bad mood, then you might have some underlying team 
+        dynamics issues to sort out. 
+
+        * watch out for sings the team is experiencing lots of conflict.
+
+            if people are arguing a lot and issues aren't getting resolved, the team probably needs some help. Not 
+        everyon is going to get their way. If team members feel resentful or hold on to grudges, it'll negatively impact
+        the team's performance. 
+    
+        * low conflict can also be a sign that the team is experiencing issues.
+
+            we're usually taught to believe that no confilect is a good thing, right? But if a team never has disagreements,
+        it is a sign that they mifht be worried about starting a conflict because the dont feel like it's a safe environment.
+        Being open and corageous are tow of our Scruym values, but its not always easy to put them into practice. 
+
+    As  project manager, part of your role is help your team get comfortable being honest with each other and working 
+    through conflicts together. If you notice any of these or any other clear sighs of team distress, here are some ideas
+    you can try:
+
+        * You could run a team brainstorm session about how to work better together. Ask the team to identify some areas
+        to improve on. an example exercise could involve asking the team to write down stories about the worst team they
+        have ever worked on, then sharing them in a meeting. The you might have the team create a list of do's and don'ts
+        for working togehter, based on the stories theyve shared.
+
+        * change up the workflows. Try pairing up the people to work together on a hard task or change up the way you run
+        one of your regular meetings. It can also helop to take a training class together or watch a video about team
+        dynamics and discuss it as a group.
+
+        * try a retrospective techniques form the internet. There are tones of great resouces out there. One of my 
+        favorite retrospective techniques is called the Six Hats Thinking Technique. In this technique, each team members
+        chooses a different hat to explore the subject of the retrospective. The different hats each involve a different
+        objective, like discussing possitives or negattives that happened during the sprint or sharing emotive statements.
+        This helps to ensure that the team taks a well-rounded approach to the retrospective. 

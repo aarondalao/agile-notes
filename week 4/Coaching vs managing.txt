@@ -74,14 +74,14 @@ The team feels deflated, and they are showing signs of burnout because they keep
 Here is a perfect opportunity to do some coaching with the whole team. Consider bringing them together for a working 
 session and cycle through all three principles of coaching:
 
-    1) Motivation: Ask the team to brainstorm positive reasons why the customer is providing this feedback and why it matters 
-    to create an excellent end product.  
+    1) Motivation: Ask the team to brainstorm positive reasons why the customer is providing this feedback and why it 
+    matters to create an excellent end product.  
 
-    2) Support: Work with the team to capture ideas on how to streamline the customer feedback process, such as a design Sprint
-    with the customer in attendance.
+    2) Support: Work with the team to capture ideas on how to streamline the customer feedback process, such as a design
+    Sprint with the customer in attendance.
 
-    3) Encourage and appreciate: Set up an event where the team celebrates the work they have accomplished so far, and make the
-    event fun and inclusive for all team members.
+    3) Encourage and appreciate: Set up an event where the team celebrates the work they have accomplished so far, and 
+    make the event fun and inclusive for all team members.
 
 Key takeaways
 
