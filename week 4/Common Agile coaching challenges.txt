@@ -2,6 +2,47 @@ Common coaching challenges
 
 * Managing a Stable product roadmap
 
+    Agile projects almost always experience changes in the product roadmap. Being able to respond quickly and productively to these changes is
+    a core Agile Value. But it is possible to have too much change impacting the project, which can lead to an unstable product roadmap.
+
+    Two main causes of an unstable product roadmap:
+    * Product Ambition
+
+        Product ambition poses a challenge when a product leadership is overly ambitious about what the team can realistically deliver. The
+    Product owner is responsible for representing the project to customers and executives. Because the product owner wants to make the 
+    stakeholders happy, it can be easy for them to over-promise what the project can deliver. 
+
+    Product Ambition Solutions
+    There are three ideas to to maintain a healthy roadmap management plan between you and the product owner:
+
+        1) Agreed upfront how to handle new opportunities
+            Define when they are reviewed and estimated, andhow custome or management commitments are made.
+        
+        2) Setup regular roadmap reviews with the entire team
+            - at least, quarterly so that everyone knows what to expect.
+        
+        3) Promote sharing knowledge between the product owner and the development team so that the product owner knows how much effort the
+        product takes to build and the team is aware of changes as early as possible.
+
+    * Product Assumption
+
+        THe second thing that can cause an unstable product roadmap is making too many product assumptions. When there is uncertainty in a 
+    project, you may be required to make some assumptions to move things forward but making too m any assumptions can jeopardize the team's
+    success.
+
+    Product assumptions Solutions
+
+        1) document the assumptions and make them transparent. 
+            - This allows you to discuss the assumptions as a team and either agree that they're safe assumptions to make or decide to question
+        and double check them.
+
+        2) if you decide to double check them, you can use unbiased user research.
+
+            Unbiased research
+                - gathers information about what users really want. It allows you to confirm or reject assumptions and helps you move forward with 
+            confidence. User research could involve conducting surveys, running focus groups, or using orther methods to collect objective data 
+            about your users.
+
 * Incomplete implementation of Scrum
 
 * Experiencing a lack of stability within the team
