@@ -1,0 +1,52 @@
+Scaling Agile
+
+Scaled Agile Framework (SAFe)
+    - is a Lean-Agile scaling framework that draws heavily on concepts from Kanban, Scrum, Extreme programming(XP), DevOps
+        and Design Thinking methodologies. 
+    - puts the goal of deliverying value above all else
+        - first principle of SAFe is "take an economic view"
+    - organizes all work and teams into "Agile Relase Trains" based of value streams
+    - it is mature and provides detailed guidance on all elements of using SAFe, but some elements are more critical than
+        others. Be sure to check back to the Agile Principles and values in the manifesto to be sure you are preserving 
+        agility.
+    
+    Core set values of SAFe
+    * Alignment
+        - Synchronize the planning and execution of SAFe activities at all levels of the organization.
+    * Built-in Quality
+        - Build quality into all stages of solution development
+    * Transparency
+        - Make execution activities visible at all levels to build trust among teams and accorss the organization.
+    * Program Execution 
+        - Focus on working systems and business outcomes
+    * Leadership
+        - Model the values and principles of SAFe
+
+    more info: 
+    https://scaledagileframework.com/safe-core-values/#:~:text=The%20four%20Core%20Values%20of,participates%20in%20a%20SAFe%20portfolio
+
+Scrum of Scrums
+    - is a technique for integrating the work of multiple, smaller Scrum teams working on the same project or solution.
+    - Coordination among teams is critical to ensuring the deliverables from each team can be integrated into one larger,
+        cohesive deliverable.
+    
+    Elements of Scrum of Scrums:
+    * A group of at least 12 or more people divided into Scrum Teams of 5 to ten people each.
+    * Scrum of Scrum meetings, which are held once a week, twice a week, or daily. These meetings follow the same format
+        as a Daily Scrum meetings buyt focus on the scrum team. In these meetings, you'll discuss the questions like:
+        "What did the team do yesterday? What problems occurned,if any, that are negatively affecting your team? What 
+        does your team want to accomplish before we meet again? Is your team blocked from moving forward on any tasks?"
+    * A Scrum master or designated "ambassador" for each team that participates in the Scrum of Scrums meetings and a 
+        Scrum or Scrums Master who focuses on the overall Scrum process accross multiple teams.
+    * Sprint planning, Sprint review, and sprint retrospective meetings.
+
+    Beyond these basic guidelines, there is no official framework or methodology to implement Scrum of Scrums. Scrum of 
+    Scrums assumes that teams have good working background and understanding of Scrum and are able to apply the scaling 
+    principles to how they work. Building on these knowledge, they design and iterate their own approach to coordinate
+    multiple teams working on the same product.
+
+Large-Scale Scrum (LeSS)
+    - a framework that aims to maximize the Scrum team's ability to deliver and reduce waste in large organizations. 
+
+    additional info:
+    https://less.works/

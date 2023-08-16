@@ -1,0 +1,130 @@
+Notes:
+    More resource/whitepapers about Agile and DevOps Convergence:
+    https://www.cmswire.com/information-management/agile-vs-devops-whats-the-difference/
+    https://scrumorg-website-prod.s3.amazonaws.com/drupal/2017-09/The%20Convergence%20of%20Scrum%20and%20DevOps.pdf
+
+Relationship between Agile and DevOps (https://devops.com/how-to-combine-devops-and-agile/) 
+
+The DevOps application during the software devellpment process redues the number of steps necessary to bring software to
+market. These faster releases and streamlined processes mean swift user feedback.
+
+DevOps implementation focuses alson on the software scalabilitym how well it could be deploed and also its monitoring 
+and maintenance after teh future releases. Howerver there is also downside to traditional DevOps benefits. The system
+does not include the kind of continuous testing and improvement that Agile offers.
+
+This has lead to Agile practices being overwhelmingly focust on what you might define as the development aspects of 
+software delivery. Though, there is less focus on operational aspects.
+
+Hence, both practices are quite critical to be implemented in the SDLC of any product.
+
+Separating Agile and devOps approaches to software development leads to the building of the product but its deployment,
+work automation, as well as infrastructure management fail as it's "SOMEBODY ELSE'S PROBLEM" when the Agile team is
+looking at it. Moreover, "operability" disappears into the background.
+
+The solution is combining Agile Sprints with the integrated teamwork offerebt by DevOps. By doing so, you can optimize
+incrementally hte developement lifecycle and maintenance of your product both. It helps to correct an imbalance but has
+little influence over the practices that happend during the continuous development phase.
+
+DevOps/Agile integration accomplishes:
+    * Streamlines the relase proces and improves product offerings
+    * Allows for better collaboration
+    * More value and fewer risks in each release
+    * Fewer bugs and faster fixes
+    * Increased visibility
+    * Higher user satisfaction urates as the product are more qualitative.
+
+What to Pay Attention to When Integrating DevOps and Agile
+To simplify the process of implementing DevOps into Agile product development we have gathered the most common pitfalls that might happen during this process and how to avoid them making your process working smoothly.
+
+Improve Teamwork Flow
+
+    Using the DevOps framework and Agile approach together makes it crucial that team members have a broader understanding
+     f all development aspects. You get DevOps business value and the practicality of Agile together. 
+
+    Team members such as the Product Owner, Scrum Master and the PM, along with operations, infrastructure and sysadmin 
+    roles need to consider not only the software development process but also delivery and maintenance. Your teams should
+    be equipped with the knowledge of release, service and change management, environment provisioning, automation and 
+    tools, and application deployment. Build-and-run product-centric teams solve the problem of the Agile development-to
+    -operations hand-off.
+
+Defining the Lifecycle
+
+    Successfully attempting a DevOps implementation plan with an Agile framework means defining the product lifecycle. 
+    This increases consistency, reduces cost by minimizing waste and speeds up a time to market. Teams now inherit more 
+    of the operational concern within the entire lifecycle. Therefore, it’s ideal if you start to implement some of the 
+    DevOps principles right at the beginning of your development process. 
+
+DevOps Adoption in Sprints
+
+    Agile workflow assumes the software development process divided into sprints, therefore it’s strategic to integrate 
+    DevOps management while handling sprints.
+
+    Follow these instructions as you start working the DevOps approach into your Sprints.
+
+    * Invite ops/infrastructure/support personnel to planning sessions.
+    * Discuss product functionality and operability features.
+    * Include them in the upcoming sprint.
+    * Involve the DevOps team in sprint backlog planning and daily meeting, as well as sprint review and scrum and plan 
+        alignment.
+    * The engagement and collaboration of your development team and operations team also keeps the ops team abreast of 
+        functionality release timelines. The ops team can then help the dev team in planning the release schedule with 
+        greater accuracy and can assist the dev team in shipping the product faster.
+
+Including QA in Each Phase
+
+    Making the QA part of the entire development lifecycle is another essential factor when integrating DevOps and Agile. 
+    Testing assumes a vital position when combining the two. Besides functional testing applied in Agile, DevOps approach 
+    requires performance and load testing of the software. Hence, constant testing is equally as important as continuous 
+    development.
+
+Implement Service Backlog Under DevOps
+
+    When implementing DevOps and Agile together, you need to rebuild your service backlogging process. As under DevOps 
+    framework, it should include: 
+
+    * Scalability of the software.
+    * Deployment capability.
+    * Service monitoring.
+    * Logging.
+    * Setting alerting. 
+    * Software testing. 
+    * Security and compliance aspects.
+    * Operational performance.
+    * Leveraging the Right Tools
+
+    Using the right tools is the key to successful Agile and DevOps adoption into your software development. Keep in mind 
+    that applies to your software development process configuration management tools to create and replicate infrastructure 
+    using the Infrastructure as a Code (IaaC) concept needed for DevOps. This helps developers to deploy the application 
+    on different types of platforms without any reworking efforts.
+
+Automation
+
+    Automation of workflow is another part of Agile combining with DevOps. Try to automate all the code scanning processes 
+    and avoid any potential vulnerabilities. Build artifacts in a repository, or automate the release out the door. 
+    Automate these elements entirely so your end-to-end goalposts are the one possible places where someone has to manually 
+    check for issues.
+
+Documentation 
+
+    While in the Agile approach, teams don’t document their meeting minutes or other communications. Instead, they prefer 
+    lo-fi methods such as pen and paper. DevOps, on the other hand, requires entire design documentation and specs to 
+    understand a software release.
+
+Measurement and Analysis
+
+    Well, after building DevOps into Agile project management to keep track of its progress, you need to care about 
+    establishing the metrics to measure its effectiveness. This allows for the successful enablement of multiple releases 
+    to production faster. As under the Scrum Alliance Organization recommendations, some of these could be:
+
+    Percentage of release date adherences.
+    Percentage increase in release numbers.
+    Time taken for release to production.
+    Defects attributable to platform/support requirements.
+    Percentage of NFRs met.
+
+    Though you can define other metrics during DevOps implementation to measure that have higher business value.
+
+Why DevOps and Agile both matter should be obvious now. Though these practices serve to streamline and simplify the 
+product creation and deployment processes, combining Agile and DevOps requires a shift in the organizations. But putting 
+efforts in combining Agile and DevOps management in the right way, you will see how it can improve your development process 
+and deliver results in reliable, scalable and maintainable applications.
