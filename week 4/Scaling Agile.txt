@@ -47,6 +47,47 @@ Scrum of Scrums
 
 Large-Scale Scrum (LeSS)
     - a framework that aims to maximize the Scrum team's ability to deliver and reduce waste in large organizations. 
+    - LeSS grew out of more than 600 experinements that expanded the practice of scrum to a larger groups.
+
+    10 Principles for applying the value, elements, and overall purpose of Scrum accros an organization. These principles
+    were designed to create more customer-focused and more collaboration focused teams. LeSS teams prioritize learning,
+    transparency, and customer needs. The principles are:
+
+        1) Large-scale Scrum is Scrum
+            - Apply the values and principles of Scrum to a larger team.
+        2) Empirical process control
+            - Inspect, adapt, and learn from experience to improve processes
+        3) Transparency 
+            - Ensure clarity and accessibility accross a project
+        4) more with less 
+            - Create only necessary processes, roles, artifacts, and waste when scalling.
+        5) Whole-product focus 
+            - think holistically about the product, making sure that all the parts serve the whole.
+        6) Customer-centric
+            - keep the customers needs and values at the heart of your process.
+        7) Continuous improvement towards perfection
+            - improve the product - and your process - during every single sprint
+        8) Systems Thinking
+            - Think about the system as a whole; dont get lost in the details
+        9) Lean Thinking
+            - Seek continuous improvement; aim for perfection, and respect people
+        10) Queuing theory
+            - embrace the lean principle of "flow, manage queue size" and "minimize multitasking" to keep delivering value.
+    
+    The LeSS toolkit provides two frameworks - one for up to 50 people (called Basic LeSS) and one for 50-6000+ people (called
+    LeSS Huge)
 
     additional info:
     https://less.works/
+
+Disciplined Agile Delivery (DAD)
+    - hybrid approach that combines the strategies from various agile frameworks, including kanban., LeSS, Lean Development,
+        Extreme Programming, Agile Modelling, and more. 
+    - DAD guides people through the process related decisions that frameworks like SAFe and Scrum of Scrums leave open.
+    - helps you devellp a scaled Agile strategy based on context and desired outcomes.
+
+    4 layers of DAD
+    1) Foundations discusses the principles, guidelinesm Agi
+    2)
+    3)
+    4)
